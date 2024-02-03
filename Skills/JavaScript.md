@@ -4,19 +4,19 @@
   - `Object`
   - `Function`
   - `Boolean`
-  - `Number` *
+  - `Number`: 🖐️ used
   - `BigInt`
   - `String`
   - `Symbol`
   - `Infinity`
   - `NaN`
   - `undefined`
-  - `null` *
+  - `null`: 🖐️ used
   - `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof` *
+  - `typeof`: 🖐️ used
   - Destructuring
   - Generators
   - Iterators
