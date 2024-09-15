@@ -1,48 +1,48 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
+  - `Object` *
+  - `Function` *
+  - `Boolean` *
   - `Number` *
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
+  - `BigInt` +
+  - `String` *
+  - `Symbol` +
+  - `Infinity` *
+  - `NaN` *
+  - `undefined` *
   - `null` *
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
+  - `this` *
+  - `instanceof` *
+  - `...spread` *
+  - `...rest` *
   - `typeof` *
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
-  - IIFE
-  - Async IIFE
-  - `global`
-  - `globalThis`
-  - `window`
-  - Getters and setters
-  - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
-  - `yield`
-  - `await`
-  - Template literal
-  - Strict mode
-  - Hoisting
+  - Destructuring *
+  - Generators +
+  - Iterators +
+  - Async generator +
+  - Async iterator +
+  - Chaining !
+  - Optional chaining !
+  - IIFE !
+  - Async IIFE +
+  - `global` +
+  - `globalThis` +
+  - `window` +
+  - Getters and setters +
+  - `__proto__` +
+  - `prototype` +
+  - Equality operators !
+  - Logical operators !
+  - Logical Assignment !
+  - Bitwise operators +
+  - Ternary operator !
+  - `void` +
+  - `yield` +
+  - `await` !
+  - Template literal !
+  - Strict mode +
+  - Hoisting !
   - `delete`
   - `in`
   - `super`
