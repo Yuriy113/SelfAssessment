@@ -1,48 +1,48 @@
 ## JavaScript
 
 - Language
-  - `Object` *
-  - `Function` *
-  - `Boolean` *
-  - `Number` *
-  - `BigInt` +
-  - `String` *
-  - `Symbol` +
-  - `Infinity` *
-  - `NaN` *
-  - `undefined` *
-  - `null` *
-  - `this` *
-  - `instanceof` *
-  - `...spread` *
-  - `...rest` *
-  - `typeof` *
-  - Destructuring *
-  - Generators +
-  - Iterators +
-  - Async generator +
-  - Async iterator +
-  - Chaining !
-  - Optional chaining !
-  - IIFE !
-  - Async IIFE +
-  - `global` +
-  - `globalThis` +
-  - `window` +
-  - Getters and setters +
-  - `__proto__` +
-  - `prototype` +
-  - Equality operators !
-  - Logical operators !
-  - Logical Assignment !
-  - Bitwise operators +
-  - Ternary operator !
-  - `void` +
-  - `yield` +
-  - `await` !
-  - Template literal !
-  - Strict mode +
-  - Hoisting !
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🎓 known
+  - `String`: 🖐️ used
+  - `Symbol`: 🎓 known
+  - `Infinity`: 🖐️ used
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
+  - `instanceof`: 🖐️ used
+  - `...spread`: 🖐️ used
+  - `...rest`: 🖐️ used
+  - `typeof`: 🖐️ used
+  - Destructuring: 🖐️ used
+  - Generators: 🎓 known
+  - Iterators: 🎓 known
+  - Async generator: 🎓 known
+  - Async iterator: 🎓 known
+  - Chaining: 🙋 explained
+  - Optional chaining: 🙋 explained
+  - IIFE: 🙋 explained
+  - Async IIFE: 🎓 known
+  - `global`: 🎓 known
+  - `globalThis`: 🎓 known
+  - `window`: 🎓 known
+  - Getters and setters: 🎓 known
+  - `__proto__`: 🎓 known
+  - `prototype`: 🎓 known
+  - Equality operators: 🙋 explained
+  - Logical operators: 🙋 explained
+  - Logical Assignment: 🙋 explained
+  - Bitwise operators: 🎓 known
+  - Ternary operator: 🙋 explained
+  - `void`: 🎓 known
+  - `yield`: 🎓 known
+  - `await`: 🙋 explained
+  - Template literal: 🙋 explained
+  - Strict mode: 🎓 known
+  - Hoisting: 🙋 explained
   - `delete`
   - `in`
   - `super`
